@@ -60,6 +60,13 @@
 
 # 관리자 BD조회창
 
+DB관리자 창의 데이터는 주문한것들이 DB에 저장되어있는데 DB에 저장되어있는 데이터를 가져오기 위해 DB와 연결하여
+날짜에 맞게 데이터를 가져올 수 있다
+
+# DB연결코드
+
+![image](https://github.com/dbsgustj/kiosk/assets/126844596/1441b2d4-437b-46bf-87d9-fdfa30aa6f99)
+
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/a7fbcc42-d79e-48dc-952e-95a90b9eeb99)
 
 전체 조회를 누르면 지금까지 주문된 내역을 모두 볼 수 있다
