@@ -4,7 +4,7 @@
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/0e1a163c-3a1f-42fa-aad4-546a2c75515b)
 
-# 변수를 넣을 방 생성
+# 변수를 넣을 배열을 생성
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/10ea2d03-e410-42f0-b198-992780c75607)
 
