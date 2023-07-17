@@ -14,7 +14,7 @@
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/9e3f2b40-b85a-4c3b-b2ac-1c0fb38f9934)
 
-# -를 눌렀을때 COUNTM[n]의 수가 1이상이라면 -1
+# -를 눌렀을때 COUNTM[n]의 수가 0초과라면 -1
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/78ef72b6-a6ed-4ffa-b222-b29537f72bd4)
 
