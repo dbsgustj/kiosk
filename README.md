@@ -16,31 +16,41 @@
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/1ec1ef88-8de2-4353-b05e-53c95c7b614c)
 
-# 취소 버튼을 누르면 COUNTM[n]의 수가 0으로 초기화 시키며 총 금액도 0으로 초기화 시킴
+# 초기화
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/5fccff3b-dedd-42f6-a1b0-8e19f4c96461)
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/d47af4c8-e873-44c6-ab81-6542b2d374c2)
 
-# 계산하기 버튼을 누르면 지금까지 주문할 음료의 가격을 총합해 총 액에 금액을 나타낸다
+취소버튼을 누르면 sumLabel(총 액)과 ListTextArea(통계) 창이 초기화 된다.
+
+# 계산하기
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/7950072e-f6f7-418c-b0c0-894d153fbbf5)
 
+계산버튼을 누르면 주문할 음료의 수 와 가격을 총합해 총 액에 금액을 나타낸다
+
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/10d57c1e-3f68-49f1-a5a9-baa189da52dc)
 
-# 계산하기 단계까지 완료시켰다면 주문하기를 눌러 주문을 하면 주문이 완료되었다는 메시지가 뜬다
+# 주문하기
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/37651c1e-c0a9-45e3-afc4-31ecb1ac2f1d)
 
+주문하기를 눌러 주문을 하면 주문이 완료되었다는 메시지가 뜬다
+
+![image](https://github.com/dbsgustj/kiosk/assets/126844596/f511f667-c3b5-48e9-84da-54eb3822f802)
+
+게산하기를 누르지 않고 주문하기를 누르면 저런 메시지가 나온다
+
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/28242f32-b766-460c-9322-aa14e9a4e51c)
 
-# 관리자 버튼을 누르면 관리자 로그인창을 띄운다
+# 관리자 로그인창
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/da4d0caf-dee7-4d74-a107-f25377c1575f)
 
-![image](https://github.com/dbsgustj/kiosk/assets/126844596/ec97cc64-ebe0-4125-b507-e52ec03938c5)
+통계창의 오른쪽 위에있는 관리자 로그인 버튼을 눌러 관리자 로그인창을 열 수 있다
 
-# 관리자 로그인창
+![image](https://github.com/dbsgustj/kiosk/assets/126844596/ec97cc64-ebe0-4125-b507-e52ec03938c5)
 
 ![image](https://github.com/dbsgustj/kiosk/assets/126844596/1f6a43c4-a28d-48c7-b940-0cfcc3e5693a)
 
